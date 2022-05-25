@@ -1,4 +1,6 @@
-# Logs
+# Logs .DS_Store
+^'
+git add -add
 logs
 *.log
 npm-debug.log*
